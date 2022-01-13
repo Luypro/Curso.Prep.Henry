@@ -1,0 +1,22 @@
+h1 {
+    color:rgb(165, 42, 42);
+}
+
+img{
+    width: 400px;
+}
+li{
+    min-width: fit-content;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: rgb(42, 165, 149);
+    padding: 50px;
+    border: rgb(184, 134, 11)
+}
+#spainId{
+    font-size: 18px;
+    margin: 50px;
+    
+}

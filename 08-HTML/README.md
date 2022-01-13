@@ -73,7 +73,7 @@ Este tag sirve para contener tags que contengan información sobre el documento,
 
 ### \<title>
 
-Es el título de la página, se mostrará en el tab del browser o en la parte superior (pero no en la página).
+Es el título de la página, se mostrará en el tab del browser o en la parte superior (pero no en la página).  
 
 ### \<body>
 

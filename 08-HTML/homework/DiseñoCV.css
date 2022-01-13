@@ -1,0 +1,38 @@
+h1 {color:rgb(32, 105, 28);
+}
+h2 {color:rgb(25, 16, 158);
+}
+h4 {color:rgb(2, 26, 72);
+}
+h5 {color:rgb(13, 13, 14);
+}
+
+img{width: 300px;
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: rgb(42, 165, 149);
+    padding: 40px;
+    border: rgb(184, 134, 11)
+}
+#spainId{
+    margin: 40px;
+}
+
+.editor-wrapper{width:100%;overflow:visible
+}
+.example.large.live,.example-choice-list.live{
+    float:left;padding:1em;width:40%}
+
+footer {
+    background-color: rgb(65, 63, 63);
+    color: #fff;
+    position: static;
+    padding-top:20;
+    padding-bottom:50;
+    text-align:center;
+    font-style:l;
+    font-weight:absolute;
+}
